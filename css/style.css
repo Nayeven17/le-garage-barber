@@ -140,6 +140,7 @@ nav ul li a{
     .banner-btn a{
         display: block;
         margin: 20px auto;
+        border: 0.5px solid #fff;
     }
 }
 
